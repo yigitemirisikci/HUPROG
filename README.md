@@ -3,4 +3,4 @@
 - Bu repoya sahip herkesin ekleme ve çıkarma yapmasında bir sıkıntı yoktur.
 - Yeni kurallar eklenebilir, hatalı, mantıksız olduğu düşünülen eski kurallar çıkarılabilir
 
-<img src = "2023.png" width = 300>
+<img src = "2023.jpeg" width = 300>
